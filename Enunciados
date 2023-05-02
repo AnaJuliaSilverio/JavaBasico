@@ -1,0 +1,6 @@
+Enunciados tirados de https://www.w3resource.com/java-exercises/array/index.php
+1-Write a Java program to remove duplicate elements from a given array and return the updated array length.
+2-Write a Java program to convert an array to an ArrayList
+3-Write a Java program to find all pairs of elements in an array whose sum is equal to a specified number.
+4- Write a Java program to arrange the elements of an array of integers so that all negative integers appear before all positive integers.
+5-Given two sorted arrays A and B of size p and q, write a Java program to merge elements of A with B by maintaining the sorted order i.e. fill A with first p smallest elements and fill B with remaining elements.
