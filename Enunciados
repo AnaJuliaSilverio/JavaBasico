@@ -4,3 +4,8 @@ Enunciados tirados de https://www.w3resource.com/java-exercises/array/index.php
 3-Write a Java program to find all pairs of elements in an array whose sum is equal to a specified number.
 4- Write a Java program to arrange the elements of an array of integers so that all negative integers appear before all positive integers.
 5-Given two sorted arrays A and B of size p and q, write a Java program to merge elements of A with B by maintaining the sorted order i.e. fill A with first p smallest elements and fill B with remaining elements.
+6- Write a Java method to display the middle character of a string
+7-Write a Java method to display the current date and time.
+8-Write a Java method to count the number of digits in an integer with the value 2. The integer may be assumed to be non-negative.
+9-Write a Java program to compare two strings lexicographically, ignoring case differences.
+10- Write a Java program to convert minutes into years and days.
